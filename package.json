@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-smartnews",
+  "version": "0.0.1",
+  "description": "The SmartFormat Feed generator for Nuxt.js",
+  "main": "lib/index.js",
+  "repository": "https://github.com/up-tri/nuxt-smartnews.git",
+  "author": "up-tri <contact@up-tri.me>",
+  "license": "MIT",
+  "dependencies": {
+    "async-cache": "^1.1.0",
+    "consola": "^2.6.1",
+    "feed-smartnews": "0.0.6",
+    "fs-extra": "^8.0.0"
+  },
+  "devDependencies": {}
+}
